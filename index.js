@@ -6,7 +6,7 @@ const chalk = require('chalk');
 score=0;
 let userName = readlineSync.question("what is your name ?   ->    ");
 console.log(`Welcome ${userName} how r u `);
-console.log (`Dear ${userName} Grab your seatbelts..`);
+console.log (`Dear ${userName} Grab your seatbelts...`);
  
 
 function quiz(question , answer)
