@@ -1,2 +1,2 @@
 # First-program
-This quiz is all about how much my friend know me. You will get some questions related to me, and you have to answer them correctly, in order to score more. If you answered them all correctly, then you can tell me I will update the high scorers.
+This test is regarding how much my companion know me. You will get a few inquiries identified with me, and you need to answer them accurately, to score more. 
